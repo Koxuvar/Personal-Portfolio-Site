@@ -24,5 +24,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshot of the finished website
 
-![portfolio demo](./Assets/images/demo-screenshot.png)
+![portfolio demo](./Assets/Images/demo-screenshot.png)
 
