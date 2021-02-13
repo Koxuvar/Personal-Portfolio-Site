@@ -144,25 +144,25 @@ nav{
 }
 
 .bootcamp{
-    background: url(/Assets/Images/github.png);
+    background: url(../Images/github.png);
     background-position: top;
     background-size: cover;
 }
 
 .horiseon{
-    background: url(/Assets/Images/Horiseon.png);
+    background: url(../Images/Horiseon.png);
     background-position: center;
     background-size: cover;
 }
 
 .mmvdesigns{
-    background: url(/Assets/Images/train1.jpg);
+    background: url(../Images/train1.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .codewars{
-    background: url(/Assets/Images/codewars.jpg);
+    background: url(../Images/codewars.jpg);
     background-position: center;
     background-size: cover;
 }
