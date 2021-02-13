@@ -2,6 +2,8 @@
 
 A personal portfolio website with sections that contain information about me, my recent projects, and ways to contact me. 
 
+Visit the finished project here: https://koxuvar.github.io/Personal-Portfolio-Site/ 
+
 ## Acceptance Criteria
 
 Here are the critical requirements requested of me when working on this project.
