@@ -201,9 +201,14 @@ nav{
     justify-content: space-evenly;
 }
 
+.contact .vertical-bar{
+    margin:1% 0;
+}
+
 .mail{
     align-self: center;
     font-size: large;
+    padding-left: 1rem;
 }
 /* end classes tags */
 
@@ -238,6 +243,7 @@ nav{
     
     .mail{
         text-decoration: underline;
+        padding:0;
     }
 
 }
