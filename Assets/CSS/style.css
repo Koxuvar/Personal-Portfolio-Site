@@ -178,7 +178,7 @@ nav{
 }
 
 .xr-for-everyone{
-    background: url(/Assets/Images/XrForEveryone.png);
+    background: url(../Images/XrForEveryone.png);
     background-position: center;
     background-size: cover;
 }
