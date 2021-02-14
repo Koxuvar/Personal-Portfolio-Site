@@ -64,6 +64,13 @@ header h1{
 nav{
     padding: 1.5rem 1rem 1rem 1rem;
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+    /* push this way down just to give contact section room to breath */
+    padding: 5rem;
+}
 /* end element tags */
 
 /* begin classes */
@@ -144,10 +151,11 @@ nav{
 
 /* make the first card bigger */
 .main-card{
-    width: 100%;
+    width: 98.25%;
     height: 400px;
 }
 
+/* adjust the positioning of the card-details to allow for extra size */
 .main-card .card-details{
     top: 320px;
 }
