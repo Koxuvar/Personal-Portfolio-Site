@@ -161,15 +161,15 @@ footer{
 }
 
 /* begin images for cards */
-.bootcamp{
-    background: url(../Images/github.png);
-    background-position: top;
+.hot-bets{
+    background: url(../Images/hotbets-header.jpg);
+    background-position: center;
     background-size: cover;
 }
 
-.horiseon{
-    background: url(../Images/Horiseon.png);
-    background-position: center;
+.weatherDash{
+    background: url(../Images/WeatherDash.png);
+    background-position: top;
     background-size: cover;
 }
 
