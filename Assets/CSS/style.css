@@ -179,9 +179,9 @@ footer{
     background-size: cover;
 }
 
-.codewars{
-    background: url(../Images/codewars.jpg);
-    background-position: center;
+.day-scheduler{
+    background: url(../Images/WDScheduler.png);
+    background-position: top;
     background-size: cover;
 }
 
